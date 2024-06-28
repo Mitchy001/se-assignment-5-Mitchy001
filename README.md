@@ -94,12 +94,19 @@ Extensions in VS Code
 
 
 Role of Extensions:
+
 •	Extend the functionality of VS Code.
+
 •	Users can find, install, and manage extensions via the Extensions view (Ctrl+Shift+X).
+
 •	Examples of essential extensions for web development:
+
 o	Prettier: For code formatting.
+
 o	ESLint: For identifying and fixing JavaScript issues.
+
 o	Live Server: For real-time feedback on changes in the browser.
+
 o	Debugger for Chrome: For debugging JavaScript code in Chrome.
  ![image](https://github.com/Mitchy001/se-assignment-5-Mitchy001/assets/140062227/55e298de-2304-4588-bfa9-a08dad491c5c)
 
