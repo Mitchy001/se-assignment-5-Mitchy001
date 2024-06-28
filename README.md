@@ -42,7 +42,7 @@ o	Open VS Code.
 o	Go to File > Preferences > Color Theme (or use Ctrl+K Ctrl+T).
 o	Choose a preferred theme.
 2.	Extensions:
-o	Open the Extensions view by clicking the Extensions icon on the Activity Bar or using Ctrl+Shift+X.
+3.      Open the Extensions view by clicking the Extensions icon on the Activity Bar or using Ctrl+Shift+X.
 o	Recommended extensions:
 
 	Prettier: Code formatter.
@@ -56,16 +56,16 @@ o	Recommended extensions:
 	Debugger for Chrome: Debug JavaScript code in the Google Chrome browser.
 
 4.	Settings Sync:
-5.	
-o	Go to File > Preferences > Settings Sync.
+	
+5.	Go to File > Preferences > Settings Sync.
 
-o	Sign in with your GitHub or Microsoft account to sync settings across devices.
+6.	Sign in with your GitHub or Microsoft account to sync settings across devices.
 
 7.	Other Settings:
 8.	
-o	Go to File > Preferences > Settings (or use Ctrl+,).
+9.	Go to File > Preferences > Settings (or use Ctrl+,).
 
-o	Adjust settings such as Font Size, Tab Size, Auto Save, etc.
+10.	Adjust settings such as Font Size, Tab Size, Auto Save, etc.
  
 ![image](https://github.com/Mitchy001/se-assignment-5-Mitchy001/assets/140062227/6108b9c7-d89b-4603-97d5-a9b5a7ce3b12)
 
