@@ -87,6 +87,8 @@ o	Install extensions: Extensions: Install Extensions.
 
 
 5.Extensions in VS Code:
+
+
 Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 Extensions in VS Code
 Role of Extensions:
