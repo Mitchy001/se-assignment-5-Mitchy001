@@ -13,13 +13,21 @@ Installation of VS Code
 Steps to Download and Install Visual Studio Code on Windows 11:
 1.	Download:
 o	Go to the Visual Studio Code website.
+
 o	Click on the "Download for Windows" button.
-2.	Install:
+
+3.	Install:
+4.	
 o	Run the downloaded setup file (VSCodeSetup.exe).
+
 o	Follow the installation wizard:
+
 	Accept the license agreement.
+
 	Choose the installation location.
+
 	Select additional tasks such as creating a desktop icon, adding "Open with Code" action to Windows Explorer file context menu, and registering the code as an editor for supported file types.
+
 	Click "Install".
 
 
@@ -36,16 +44,27 @@ o	Choose a preferred theme.
 2.	Extensions:
 o	Open the Extensions view by clicking the Extensions icon on the Activity Bar or using Ctrl+Shift+X.
 o	Recommended extensions:
+
 	Prettier: Code formatter.
+
 	ESLint: JavaScript linter.
+
 	Live Server: Launch a development local Server with live reload.
+
 	Bracket Pair Colorizer: Colorize matching brackets.
+
 	Debugger for Chrome: Debug JavaScript code in the Google Chrome browser.
-3.	Settings Sync:
+
+4.	Settings Sync:
+5.	
 o	Go to File > Preferences > Settings Sync.
+
 o	Sign in with your GitHub or Microsoft account to sync settings across devices.
-4.	Other Settings:
+
+7.	Other Settings:
+8.	
 o	Go to File > Preferences > Settings (or use Ctrl+,).
+
 o	Adjust settings such as Font Size, Tab Size, Auto Save, etc.
  
 ![image](https://github.com/Mitchy001/se-assignment-5-Mitchy001/assets/140062227/6108b9c7-d89b-4603-97d5-a9b5a7ce3b12)
