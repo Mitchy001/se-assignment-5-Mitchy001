@@ -50,9 +50,11 @@ o	Adjust settings such as Font Size, Tab Size, Auto Save, etc.
  
 ![image](https://github.com/Mitchy001/se-assignment-5-Mitchy001/assets/140062227/6108b9c7-d89b-4603-97d5-a9b5a7ce3b12)
 
+
 3. User Interface Overview:
 Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 User Interface Overview
+
 
 Main Components of the VS Code User Interface:
 1.	Activity Bar:
@@ -108,6 +110,9 @@ Opening and Using the Integrated Terminal:
 o	Directly execute commands without leaving the editor.
 o	Supports multiple terminals.
 o	Integrates with tasks and debugging.
+
+
+
 7.File and Folder Management:
 Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 File and Folder Management
@@ -133,6 +138,8 @@ Customizing Settings:
 o	Change Theme: Type "color theme" in the settings search bar and select your desired theme.
 o	Change Font Size: Adjust "Editor: Font Size".
 o	Change Keybindings: Go to File > Preferences > Keyboard Shortcuts or Ctrl+K Ctrl+S.
+
+
 9.Debugging in VS Code:
 Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 Debugging in VS Code
