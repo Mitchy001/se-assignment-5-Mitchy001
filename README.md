@@ -53,6 +53,7 @@ o	Adjust settings such as Font Size, Tab Size, Auto Save, etc.
 3. User Interface Overview:
 Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 User Interface Overview
+
 Main Components of the VS Code User Interface:
 1.	Activity Bar:
 o	Located on the left side.
